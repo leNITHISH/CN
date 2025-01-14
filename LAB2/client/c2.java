@@ -1,9 +1,5 @@
 import java.io.*;
 import java.net.*;
-import java.util.Scanner;
-
-import java.io.*;
-import java.net.*;
 
 class Nithish_23BCE1230 {
     private Socket socket = null;

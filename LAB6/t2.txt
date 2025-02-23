@@ -1,0 +1,5 @@
+This is another sample text file.
+It has some different words.
+The goal is to check similarity.
+This file is 50% similar to the third file.
+Additional unique content here.

@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains some common words.
+The purpose is to test similarity.
+This file is 69% similar to the third file.
+Some unique content here.

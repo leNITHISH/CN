@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains some common words.
+The purpose is to test similarity.
+This file is the reference for similarity checks.
+Some unique content here.
+More unique content here.

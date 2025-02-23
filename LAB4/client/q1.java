@@ -12,7 +12,7 @@ String operation = args[1];
 // String operator = args[2];
 
 socket = new Socket();
-socket.connect(new InetSocketAddress("127.0.0.1", 5001), 1000);
+socket.connect(new InetSocketAddress("6cfd4e07-b5e5-48de-bb61-e840336de517.deepnoteproject.com", 8080), 10000);
 System.out.println("Connection Successful!");
 
 dataIn = new DataInputStream(socket.getInputStream());
